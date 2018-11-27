@@ -1,10 +1,1 @@
-<<<<<<< HEAD
-Toto Version 1.0
-opop
-
-
-
-=======
-Toto Version 1.0.1
-Branche Toto
->>>>>>> toto
+test 2.0
